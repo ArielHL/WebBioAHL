@@ -98,7 +98,7 @@ export default function Component() {
   <VStack sx={{"maxWidth": "600px", "width": "100%", "marginY": "2em", "padding": "2em"}}>
   <VStack alignItems={`start`} spacing={`1.5em`}>
   <HStack spacing={`0.8em`}>
-  <Avatar name={`Ariel Limes`} size={`xl`} src={`avatar.jpg`} sx={{"color": "#C3C7CB", "bg": "#171F26", "padding": "2px", "border": "4px solid", "borderColor": "#14A1F0"}}/>
+  <Avatar name={`Ariel Limes`} size={`xl`} src={`ahl_avatar.jpeg`} sx={{"color": "#C3C7CB", "bg": "#171F26", "padding": "2px", "border": "4px solid", "borderColor": "#14A1F0"}}/>
   <Flex direction={`column`} sx={{"alingItems": "start"}}>
   <Heading size={`lg`} sx={{"color": "#F1F2F4", "fontFamily": "Poppins", "fontWeight": "400"}}>
   {`Ariel Limes`}
@@ -131,7 +131,7 @@ export default function Component() {
   <Flex sx={{"width": "100%", "paddingX": "1.5em"}}>
   <Box sx={{"fontSize": "1em", "color": "#C3C7CB"}}>
   <Text as={`span`} sx={{"fontWeight": "bold", "color": "#14A1F0"}}>
-  {`28+`}
+  {`14+`}
 </Text>
   {` Años de experiencia`}
 </Box>
@@ -152,8 +152,8 @@ export default function Component() {
 </Flex>
   <Text sx={{"color": "#C3C7CB", "fontSize": "1em", "padding": "2px"}}>
   {`
-                            Soy ingeniero de software desde hace más de 28 años. 
-                            Actualmente trabajo como freelance full-stack developer iOS y Android. 
+                            Soy un professional en Ciencia de Datos con experiencia de  14 años. 
+                            Actualmente trabajo como freelance full-stack developer en ReactJS, Node.JS, Django y Reflex. 
                             Además creo contenido formativo sobre programación y tecnología en redes. 
                             Aquí podrás encontrar todos mis enlaces de interés. ¡Bienvenid@!
                             `}

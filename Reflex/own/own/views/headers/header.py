@@ -9,7 +9,7 @@ import own.constants as const
 import datetime
 
 def experience() -> int:
-    return datetime.date.today().year - 1995
+    return datetime.date.today().year - 2009
 
 
 
@@ -22,7 +22,7 @@ def header () -> rx.Component:
                             size="xl",
                             color=TextColor.BODY.value,
                             bg=Color.CONTENT.value,
-                            src='avatar.jpg',
+                            src='ahl_avatar.jpeg',
                             padding='2px',
                             border="4px solid",
                             border_color=Color.PRIMARY.value,
@@ -91,8 +91,8 @@ def header () -> rx.Component:
                     
                     rx.text(
                             f"""
-                            Soy ingeniero de software desde hace más de {experience()} años. 
-                            Actualmente trabajo como freelance full-stack developer iOS y Android. 
+                            Soy un professional en Ciencia de Datos con experiencia de  {experience()} años. 
+                            Actualmente trabajo como freelance full-stack developer en ReactJS, Node.JS, Django y Reflex. 
                             Además creo contenido formativo sobre programación y tecnología en redes. 
                             Aquí podrás encontrar todos mis enlaces de interés. ¡Bienvenid@!
                             """,
