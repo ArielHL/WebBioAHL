@@ -202,7 +202,7 @@ export default function Component() {
   {`Discord`}
 </Text>
   <Text sx={{"fontFamily": "Poppins", "fontWight": "300", "fontSize": "1em", "color": "#C3C7CB"}}>
-  {`El chat y lo grupos de estudio de la comunidad`}
+  {`El chat y los grupos de estudio de la comunidad`}
 </Text>
 </VStack>
 </HStack>
@@ -310,7 +310,7 @@ export default function Component() {
   {`Invítame a un café`}
 </Text>
   <Text sx={{"fontFamily": "Poppins", "fontWight": "300", "fontSize": "1em", "color": "#C3C7CB"}}>
-  {`¿Quieres ayudarme a que siga creado contenido?`}
+  {`¿Quieres ayudarme a que siga creando contenido?`}
 </Text>
 </VStack>
 </HStack>

@@ -22,7 +22,7 @@ def links () -> rx.Component:
         ),
         link_button(
             "Discord",
-            "El chat y lo grupos de estudio de la comunidad",
+            "El chat y los grupos de estudio de la comunidad",
             "icons/discord.svg",
             const.DISCORD_URL
         ),
@@ -66,7 +66,7 @@ def links () -> rx.Component:
         ),
         link_button(
             "Invítame a un café",
-            "¿Quieres ayudarme a que siga creado contenido?",
+            "¿Quieres ayudarme a que siga creando contenido?",
             "icons/coffee.svg",
             const.COFFEE_URL
         ),
